@@ -1,7 +1,7 @@
 
 .contenedor {
     height: 1000px;
-    width: 640px;
+    width: 50%;
     background-color: blue;
    position: relative;
     top: 0;
@@ -25,10 +25,10 @@
 .section-2 {
     background-color: coral;
     height: 1000px;
-    width: 640px;
+    width: 50%;
     position: relative;
     top: -1000px; ;
-    left: 640px;
+    left: 50%;
     
 }
 
@@ -37,4 +37,11 @@
     width: 50px;
     border: 2px solid black;
     
+}
+
+.titulo-clay {
+    border: solid plum;
+    border-radius: 10px;
+    background: pink;
+    text-align: center;
 }
